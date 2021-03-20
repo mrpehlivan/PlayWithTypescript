@@ -42,4 +42,4 @@ tsc filename.js
 
 ## Core datatypes
 
-![core-types](assets/core-types.png)
+![core-types](assests/core-types.png)
