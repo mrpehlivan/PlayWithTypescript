@@ -51,3 +51,7 @@ See examples in the union-alias-literal.ts
 ### Functions
 
 See examples in the functions.ts
+
+### Unknown type and never type
+
+See examples in the unknown-never.ts
